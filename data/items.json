@@ -1,0 +1,25 @@
+{
+  "products": [
+    { "name": "Glow Tone Face Cream", "price": 499 },
+    { "name": "Radiance Brightening Face Cream", "price": 599 },
+    { "name": "Luminous Glow Light Face Cream", "price": 999 },
+    { "name": "Hydra Glow Boost Face Cream", "price": 700 },
+    { "name": "Glow Tone Body Lotion", "price": 800 },
+    { "name": "Radiant Tone Brightening Lotion", "price": 1099 },
+    { "name": "Luminous Glow Light Lotion", "price": 2500 },
+    { "name": "Tone Harmony Cream", "price": 1500 },
+    { "name": "Intima Glow Brightener", "price": 1500 },
+    { "name": "Stretch Mark & Scar Enhance Cream", "price": 1500 },
+    { "name": "Radiant Body Oil", "price": 900 },
+    { "name": "Nourish & Glow Oil", "price": 1100 },
+    { "name": "Exfoliating Glow Scrub", "price": 600 },
+    { "name": "Dark Under Eye Cream", "price": 599 }
+  ],
+  "offers": [
+    { "name": "Targeted Area Products + Free Pen Perfume", "price": 1500 },
+    { "name": "Glow Tone Combo + Free Pen Perfume", "price": 1200 },
+    { "name": "Brightening Combo + Free Pen Perfume", "price": 1600 },
+    { "name": "Lightening Combo + 2 Free Pen Perfumes", "price": 2500 },
+    { "name": "Glow Body Oil Offer + Free Perfume Pen", "price": 700 }
+  ]
+}
